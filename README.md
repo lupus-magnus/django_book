@@ -18,9 +18,36 @@ This directory was made with the intention of practicing Python and the Django f
 
 <br>
 
-<h2 align="center"> 📌 Goals and Challenges</h2>ls
+<h2 align="center"> 📌 Goals and Challenges</h2>
 
 The main goal, at first, is to practice my Python skills and good practices. I'll try to be using the best market standards as I code. If you notice something that can be improved, don't hesitate to share that with me, by opening issues or comments.
+
+### Self-proposed steps (The Wolf's Doctrine):
+
+- <input type="checkbox"/> Solve the book chapters's proposed challenges.
+
+  - Chapter 1 <input type="checkbox" checked/>
+  - Chapter 2 <input type="checkbox" checked/>
+  - Chapter 3 <input type="checkbox" checked/>
+  - Chapter 4 <input type="checkbox"/>
+  - Chapter 5 <input type="checkbox"/>
+  - Chapter 6 <input type="checkbox"/>
+  - Chapter 7 <input type="checkbox"/>
+  - Chapter 8 <input type="checkbox"/>
+  - Chapter 9 <input type="checkbox"/>
+  - Chapter 10 <input type="checkbox"/>
+  - Chapter 11 <input type="checkbox"/>
+  - Chapter 12 <input type="checkbox"/>
+
+- <input type="checkbox"/> Write it all making use of:
+
+  - PEP8 standards <input type="checkbox" checked/>
+  - Propper linting and code formatting <input type="checkbox"/>
+  - Type annotations.<input type="checkbox"/>
+  - Validate all of those exercises using tests. <input type="checkbox"/>
+
+- <input type="checkbox"/> Develop Django application using best practices both for back and frontend.
+- <input type="checkbox"/> Use SASS on the frontend.
 
 <h2 align="center"> 🤔  How to Use It </h2>
 
