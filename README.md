@@ -10,11 +10,13 @@
 <br>
 
 <br>
-
+<h2 align="center"> 
+📘 Summary </h2>
 <p>
 This directory was made with the intention of practicing Python and the Django framework. For my guidance, I will be using the book "Python e Django - Desenvolvimento Web Moderno e Ágil", written by Francisco Marcelo de Barros Maciel.
-
 </p>
+<img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/5c72ca101236233.5f19fb314ed2c.jpg"/>  
+</h1>
 
 <br>
 
