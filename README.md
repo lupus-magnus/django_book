@@ -53,9 +53,9 @@ The main goal, at first, is to practice my Python skills and good practices. I'l
 
 <h2 align="center"> 🤔  How to Use It </h2>
 
-<p>First of all, it is important to understand that the book is divided in two parts, and so it's gonna be in our project. In the first section, Python itself will be discussed and several challenges presented. In that sense, I'm going to try and solve this, in order to practice my logic and problem solving in the language. All of that is going to be inside the folder "practice".</p>
+<p>First of all, it is important to understand that the book is divided in two parts, and so it's gonna be in our project. In the first section, Python itself will be discussed and several challenges presented. In that sense, I'm going to try and solve this, in order to practice my logic and problem solving in the language. All of that is going to be inside the folder "resolutions". This folder is divided by chapters, and each chapter has its questions and resolutions written on the .py files.</p>
 <p>
-Secondly, we will focus on the django section of the book. During this time, we will develop an application acording to the book suggestion, which is a virtual store.
+Later on, we will focus on the Django's section of the book. During this time, we will develop an application acording to the text's suggestion, which is a virtual store complete system.
 </p>
 
 <h2 align="center">💻 Commands: </h2>
