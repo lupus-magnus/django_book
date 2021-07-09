@@ -1,9 +1,9 @@
-# Crie um programa que solicita ao usuário que digite o seu login, e em seguida, verifica se está nas seguintes regras:
+# Crie um programa que solicita ao usuario que digite o seu login, e em seguida, verifica se esta nas seguintes regras
 # inicia com maiuscula
 # tem, no minimo, seis caracteres
 # possui, pelo menos, dois caracteres numericos
-# possui, pelo menos, três letras
-# possui tamanho de até dez caracteres
+# possui, pelo menos, tres letras
+# possui tamanho de ate dez caracteres
 
 username_is_valid = True
 on_repeat = True
@@ -70,7 +70,7 @@ while on_repeat:
         tried_users.append(new_user)
         error_list = []
         msg = ""
-        set_on_repeat = input("\n\nDeseja tentar de novo?\n1-\tSim\n2-\tNão\n\n")
+        set_on_repeat = input("\n\nDeseja tentar de novo?\n1-\tSim\n2-\tNao\n\n")
         username_is_valid = True
         if int(set_on_repeat) == 2:
             for obj in tried_users:
